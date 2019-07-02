@@ -1,0 +1,42 @@
+.bg{
+    background-color: #c3e6cb;
+}
+.panelBody{
+    padding: 15px ;
+    background-color: #bd2130 ;
+    border-radius: 15px ;
+    width: 320px !important;
+    box-shadow: 0 0 10px #F4E552 !important;
+}
+.rowPad{
+    padding: 5px;
+}
+.inputCss{
+    font-size: 12pt !important;
+    text-align: right !important;
+    margin-bottom: 10px;
+}
+.resultCss{
+    font-size: 15pt !important;
+    text-align: right !important;
+    font-weight: bold !important;
+    color: #bd2130 !important;
+}
+.heading{
+    color: #ffffff ;
+}
+.es{
+    color: #27B627 ;
+}
+.logo__mark--left {
+    fill: #974CFF;
+}
+.header__logo--dark .logo__mark {
+    fill: #365FD9;
+}
+.logo__mark--bottom {
+    fill: #18AAF2;
+}
+.logo__mark--right {
+    fill: #14CCCC;
+}
